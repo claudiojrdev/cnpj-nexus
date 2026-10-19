@@ -1,0 +1,499 @@
+<?xml version="1.0" ?>
+<d:multistatus xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns" xmlns:oc="http://owncloud.org/ns" xmlns:nc="http://nextcloud.org/ns">
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:31 GMT</d:getlastmodified>
+                <d:resourcetype>
+                    <d:collection/>
+                </d:resourcetype>
+                <d:quota-used-bytes>7692070350</d:quota-used-bytes>
+                <d:quota-available-bytes>644596305920</d:quota-available-bytes>
+                <d:getetag>&quot;6a78c873d41fe&quot;</d:getetag>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Cnaes.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:26:22 GMT</d:getlastmodified>
+                <d:getcontentlength>22078</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;57ca9ef3c6f8149f0ab08589b300f96d&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas0.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:00 GMT</d:getlastmodified>
+                <d:getcontentlength>552734286</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;95c254b100063e48cf4cbb966ecce2a4&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas1.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:06 GMT</d:getlastmodified>
+                <d:getcontentlength>77892906</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;03172453ff1e75c9b7a94ad7f52d8caf&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas2.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:12 GMT</d:getlastmodified>
+                <d:getcontentlength>79119503</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;df0b1492fa939ec2acad5ac130e602b9&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas3.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:19 GMT</d:getlastmodified>
+                <d:getcontentlength>85107043</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;b33da6ef871f57e0bc628216fee75a39&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas4.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:26 GMT</d:getlastmodified>
+                <d:getcontentlength>90236931</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;33051e9d6140d7994f14f08ce9032b69&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas5.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:33 GMT</d:getlastmodified>
+                <d:getcontentlength>97335034</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;418af92a70194e1dc02d2974c4b5c727&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas6.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:40 GMT</d:getlastmodified>
+                <d:getcontentlength>94230071</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;3ebd489c4d63299cd9700b6940e1fe5a&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas7.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:47 GMT</d:getlastmodified>
+                <d:getcontentlength>98726923</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;1b7277e04f6f824956aca67e74a06c86&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas8.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:27:55 GMT</d:getlastmodified>
+                <d:getcontentlength>98801940</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;8d5c107a13535e2d5eb517273247e7dc&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Empresas9.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:28:02 GMT</d:getlastmodified>
+                <d:getcontentlength>94372131</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;3e0b4f02b52521a8341be95f88f2261c&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos0.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:30:25 GMT</d:getlastmodified>
+                <d:getcontentlength>2200116910</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;274eaa108d11a21301caf0346c0d76ec&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos1.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:30:53 GMT</d:getlastmodified>
+                <d:getcontentlength>341753658</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;034352314476f4e070f85e92090b501f&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos2.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:31:16 GMT</d:getlastmodified>
+                <d:getcontentlength>336127884</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;a1975f1811849d63baf092f7373a0926&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos3.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:31:41 GMT</d:getlastmodified>
+                <d:getcontentlength>367641274</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;6f13be08362d1b04ae36bdf9bde0168e&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos4.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:32:04 GMT</d:getlastmodified>
+                <d:getcontentlength>340246482</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;3de50043ed243b734df6359c8501b3de&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos5.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:32:26 GMT</d:getlastmodified>
+                <d:getcontentlength>335998993</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;66bf6081e400c1da20159e15dc2792d7&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos6.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:32:53 GMT</d:getlastmodified>
+                <d:getcontentlength>368845297</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;97fe472872020ffefae283b191474798&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos7.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:33:15 GMT</d:getlastmodified>
+                <d:getcontentlength>339985622</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;5802619a3c05fadd56983519875b0b76&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos8.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:33:38 GMT</d:getlastmodified>
+                <d:getcontentlength>335311452</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;f9c775cea944c8e56ddb6f3376c632d2&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Estabelecimentos9.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:03 GMT</d:getlastmodified>
+                <d:getcontentlength>369237808</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;211dc76f38f7a427f69d6b07123dfcdb&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Motivos.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:04 GMT</d:getlastmodified>
+                <d:getcontentlength>1180</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;5083658d4ea9706f647125aab8e6bc3a&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Municipios.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:05 GMT</d:getlastmodified>
+                <d:getcontentlength>43443</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;bf9fa7cea57f10a4383d41d422300d21&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Naturezas.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:06 GMT</d:getlastmodified>
+                <d:getcontentlength>1563</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;f4cda4a234df07741789f9d7f42c735e&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Paises.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:07 GMT</d:getlastmodified>
+                <d:getcontentlength>2745</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;a8e0a6cc2d2b1f9bac51c9fba2610d95&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Qualificacoes.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:08 GMT</d:getlastmodified>
+                <d:getcontentlength>980</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;f89579b41375e0d954f29f25eec240e1&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Simples.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:30 GMT</d:getlastmodified>
+                <d:getcontentlength>302289129</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;b39e41a2c405a1ee16c1d802ad8aedb3&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios0.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:47 GMT</d:getlastmodified>
+                <d:getcontentlength>242883070</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;bdb6339aa67b6c063742fabfe1756252&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios1.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:52 GMT</d:getlastmodified>
+                <d:getcontentlength>49520370</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;fd7336f8857dc8cb5126d12caa97a45f&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios2.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:34:56 GMT</d:getlastmodified>
+                <d:getcontentlength>49037679</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;341a0ff5295004288b0e510f0f75eb12&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios3.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:00 GMT</d:getlastmodified>
+                <d:getcontentlength>49045291</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;d2c42f4203b941afa0f0179bf172783c&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios4.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:04 GMT</d:getlastmodified>
+                <d:getcontentlength>49446216</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;c32273359ba8b95bcb1c8cb8087fc8ef&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios5.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:08 GMT</d:getlastmodified>
+                <d:getcontentlength>49228829</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;ab4f5057207a540a50d2e2bc929ebcf7&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios6.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:13 GMT</d:getlastmodified>
+                <d:getcontentlength>49130796</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;1cfc01cfda69f17dd2d5ea430d302b2b&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios7.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:17 GMT</d:getlastmodified>
+                <d:getcontentlength>49017791</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;b881ec505e4d6472ddf01c6dd3b8deac&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios8.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:21 GMT</d:getlastmodified>
+                <d:getcontentlength>49525621</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;e56b851a957977a30a7c9ac3c339508f&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/webdav/2026-08/Socios9.zip</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:25 GMT</d:getlastmodified>
+                <d:getcontentlength>49051421</d:getcontentlength>
+                <d:resourcetype/>
+                <d:getetag>&quot;a547b20f728588759f362cd2afe10db3&quot;</d:getetag>
+                <d:getcontenttype>application/zip</d:getcontenttype>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+</d:multistatus>
